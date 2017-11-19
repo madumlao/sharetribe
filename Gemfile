@@ -170,3 +170,8 @@ gem 'intercom'
 
 gem 'twitter_cldr'
 gem 'memoist'
+
+# added for deploy convenience
+gem 'puma'
+gem 'daemons'
+gem 'foreman'
